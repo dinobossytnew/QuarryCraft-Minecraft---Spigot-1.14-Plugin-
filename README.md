@@ -1,4 +1,4 @@
-# QuarryCraft-Minecraft---Spigot-1.14-Plugin-
+# QuarryCraft-Minecraft---Spigot-1.17.1 - 1.18 -Plugin-
 A spigot  plugin that adds a quarry to minecraft.
 
 
